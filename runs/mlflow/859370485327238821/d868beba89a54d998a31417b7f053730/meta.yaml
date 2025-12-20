@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Tooth Pathology Project/Codes/runs/mlflow/859370485327238821/d868beba89a54d998a31417b7f053730/artifacts
+end_time: 1766205719337
+entry_point_name: ''
+experiment_id: '859370485327238821'
+lifecycle_stage: active
+run_id: d868beba89a54d998a31417b7f053730
+run_name: train4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766202908049
+status: 3
+tags: []
+user_id: Anirudh
